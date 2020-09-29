@@ -1,0 +1,4 @@
+name: Everywhere_on_Earth
+version: ${project.version}
+main: kun.minecraft_plugin.everywhere_on_earth.Everywhere_on_earth
+api-version: 1.15
